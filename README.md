@@ -7,7 +7,7 @@ That's what all sane people do when their bored... right?!
 
 
 ### To run the code:
-```py
+```bash
   # download the visualbubble.py file
   # cd path/to/file/folder
   python visualbubble.py
